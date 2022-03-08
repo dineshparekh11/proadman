@@ -46,3 +46,5 @@ export const PrivateRoute = ({ children, ...rest }) => {
 		/>
 	);
 };
+
+export default DefaultLayout;
